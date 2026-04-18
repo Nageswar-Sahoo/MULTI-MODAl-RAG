@@ -1,0 +1,2670 @@
+[
+  [
+    {
+      "index": 0,
+      "label": "aside_text",
+      "bbox_2d": [
+        22,
+        270,
+        58,
+        700
+      ],
+      "polygon": [
+        [
+          22,
+          270
+        ],
+        [
+          22,
+          665
+        ],
+        [
+          27,
+          700
+        ],
+        [
+          58,
+          700
+        ],
+        [
+          58,
+          270
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "aside_text"
+    },
+    {
+      "index": 1,
+      "label": "doc_title",
+      "bbox_2d": [
+        344,
+        280,
+        654,
+        305
+      ],
+      "polygon": [
+        [
+          344,
+          280
+        ],
+        [
+          344,
+          304
+        ],
+        [
+          653,
+          304
+        ],
+        [
+          653,
+          280
+        ]
+      ],
+      "content": "# ```markdown\n\n```",
+      "native_label": "doc_title"
+    },
+    {
+      "index": 2,
+      "label": "text",
+      "bbox_2d": [
+        460,
+        350,
+        540,
+        364
+      ],
+      "polygon": [
+        [
+          460,
+          350
+        ],
+        [
+          460,
+          364
+        ],
+        [
+          539,
+          364
+        ],
+        [
+          539,
+          350
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 3,
+      "label": "text",
+      "bbox_2d": [
+        183,
+        389,
+        815,
+        445
+      ],
+      "polygon": [
+        [
+          183,
+          400
+        ],
+        [
+          183,
+          445
+        ],
+        [
+          814,
+          445
+        ],
+        [
+          814,
+          389
+        ],
+        [
+          188,
+          389
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 4,
+      "label": "text",
+      "bbox_2d": [
+        405,
+        457,
+        595,
+        485
+      ],
+      "polygon": [
+        [
+          405,
+          457
+        ],
+        [
+          405,
+          485
+        ],
+        [
+          594,
+          485
+        ],
+        [
+          594,
+          457
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 5,
+      "label": "paragraph_title",
+      "bbox_2d": [
+        460,
+        501,
+        539,
+        516
+      ],
+      "polygon": [
+        [
+          460,
+          501
+        ],
+        [
+          460,
+          515
+        ],
+        [
+          538,
+          515
+        ],
+        [
+          538,
+          501
+        ]
+      ],
+      "content": "## ```markdown\n\n```",
+      "native_label": "paragraph_title"
+    },
+    {
+      "index": 6,
+      "label": "abstract",
+      "bbox_2d": [
+        231,
+        537,
+        767,
+        621
+      ],
+      "polygon": [
+        [
+          231,
+          542
+        ],
+        [
+          231,
+          620
+        ],
+        [
+          767,
+          620
+        ],
+        [
+          762,
+          537
+        ],
+        [
+          663,
+          537
+        ],
+        [
+          514,
+          537
+        ],
+        [
+          490,
+          537
+        ],
+        [
+          464,
+          537
+        ],
+        [
+          449,
+          537
+        ],
+        [
+          434,
+          537
+        ],
+        [
+          295,
+          537
+        ],
+        [
+          271,
+          537
+        ],
+        [
+          236,
+          537
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "abstract"
+    },
+    {
+      "index": 7,
+      "label": "paragraph_title",
+      "bbox_2d": [
+        173,
+        660,
+        312,
+        675
+      ],
+      "polygon": [
+        [
+          173,
+          660
+        ],
+        [
+          173,
+          674
+        ],
+        [
+          312,
+          674
+        ],
+        [
+          312,
+          660
+        ]
+      ],
+      "content": "## ```markdown\n\n```",
+      "native_label": "paragraph_title"
+    },
+    {
+      "index": 8,
+      "label": "text",
+      "bbox_2d": [
+        170,
+        695,
+        826,
+        820
+      ],
+      "polygon": [
+        [
+          170,
+          695
+        ],
+        [
+          170,
+          820
+        ],
+        [
+          825,
+          820
+        ],
+        [
+          825,
+          695
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 9,
+      "label": "text",
+      "bbox_2d": [
+        170,
+        826,
+        826,
+        895
+      ],
+      "polygon": [
+        [
+          170,
+          826
+        ],
+        [
+          170,
+          895
+        ],
+        [
+          825,
+          895
+        ],
+        [
+          825,
+          826
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    }
+  ],
+  [
+    {
+      "index": 0,
+      "label": "text",
+      "bbox_2d": [
+        172,
+        92,
+        417,
+        107
+      ],
+      "polygon": [
+        [
+          172,
+          92
+        ],
+        [
+          172,
+          107
+        ],
+        [
+          416,
+          107
+        ],
+        [
+          416,
+          92
+        ],
+        [
+          392,
+          92
+        ],
+        [
+          387,
+          92
+        ],
+        [
+          367,
+          92
+        ],
+        [
+          357,
+          92
+        ],
+        [
+          352,
+          92
+        ],
+        [
+          337,
+          92
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 1,
+      "label": "text",
+      "bbox_2d": [
+        215,
+        119,
+        771,
+        134
+      ],
+      "polygon": [
+        [
+          215,
+          119
+        ],
+        [
+          215,
+          133
+        ],
+        [
+          771,
+          133
+        ],
+        [
+          771,
+          119
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 2,
+      "label": "text",
+      "bbox_2d": [
+        215,
+        137,
+        823,
+        165
+      ],
+      "polygon": [
+        [
+          215,
+          137
+        ],
+        [
+          215,
+          165
+        ],
+        [
+          822,
+          165
+        ],
+        [
+          822,
+          137
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 3,
+      "label": "text",
+      "bbox_2d": [
+        216,
+        170,
+        788,
+        185
+      ],
+      "polygon": [
+        [
+          216,
+          170
+        ],
+        [
+          216,
+          185
+        ],
+        [
+          787,
+          185
+        ],
+        [
+          787,
+          170
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 4,
+      "label": "text",
+      "bbox_2d": [
+        216,
+        189,
+        548,
+        204
+      ],
+      "polygon": [
+        [
+          216,
+          189
+        ],
+        [
+          216,
+          194
+        ],
+        [
+          216,
+          204
+        ],
+        [
+          547,
+          204
+        ],
+        [
+          547,
+          189
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 5,
+      "label": "text",
+      "bbox_2d": [
+        216,
+        208,
+        825,
+        236
+      ],
+      "polygon": [
+        [
+          216,
+          208
+        ],
+        [
+          216,
+          236
+        ],
+        [
+          824,
+          236
+        ],
+        [
+          824,
+          208
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 6,
+      "label": "text",
+      "bbox_2d": [
+        217,
+        240,
+        583,
+        255
+      ],
+      "polygon": [
+        [
+          217,
+          240
+        ],
+        [
+          217,
+          255
+        ],
+        [
+          582,
+          255
+        ],
+        [
+          582,
+          240
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 7,
+      "label": "paragraph_title",
+      "bbox_2d": [
+        172,
+        274,
+        337,
+        291
+      ],
+      "polygon": [
+        [
+          172,
+          274
+        ],
+        [
+          172,
+          290
+        ],
+        [
+          337,
+          290
+        ],
+        [
+          337,
+          274
+        ]
+      ],
+      "content": "## ```markdown\n\n```",
+      "native_label": "paragraph_title"
+    },
+    {
+      "index": 8,
+      "label": "text",
+      "bbox_2d": [
+        170,
+        305,
+        825,
+        361
+      ],
+      "polygon": [
+        [
+          170,
+          305
+        ],
+        [
+          170,
+          361
+        ],
+        [
+          825,
+          361
+        ],
+        [
+          825,
+          305
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 9,
+      "label": "text",
+      "bbox_2d": [
+        171,
+        367,
+        826,
+        424
+      ],
+      "polygon": [
+        [
+          171,
+          372
+        ],
+        [
+          171,
+          423
+        ],
+        [
+          825,
+          423
+        ],
+        [
+          825,
+          372
+        ],
+        [
+          765,
+          367
+        ],
+        [
+          725,
+          367
+        ],
+        [
+          651,
+          367
+        ],
+        [
+          615,
+          367
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 10,
+      "label": "text",
+      "bbox_2d": [
+        174,
+        430,
+        694,
+        444
+      ],
+      "polygon": [
+        [
+          174,
+          430
+        ],
+        [
+          174,
+          443
+        ],
+        [
+          693,
+          443
+        ],
+        [
+          693,
+          430
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 11,
+      "label": "algorithm",
+      "bbox_2d": [
+        174,
+        454,
+        804,
+        519
+      ],
+      "polygon": [
+        [
+          174,
+          454
+        ],
+        [
+          174,
+          518
+        ],
+        [
+          804,
+          518
+        ],
+        [
+          804,
+          454
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "algorithm"
+    },
+    {
+      "index": 12,
+      "label": "text",
+      "bbox_2d": [
+        170,
+        532,
+        827,
+        602
+      ],
+      "polygon": [
+        [
+          170,
+          532
+        ],
+        [
+          170,
+          601
+        ],
+        [
+          827,
+          601
+        ],
+        [
+          827,
+          532
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 13,
+      "label": "paragraph_title",
+      "bbox_2d": [
+        172,
+        621,
+        367,
+        639
+      ],
+      "polygon": [
+        [
+          172,
+          621
+        ],
+        [
+          172,
+          638
+        ],
+        [
+          366,
+          638
+        ],
+        [
+          366,
+          621
+        ]
+      ],
+      "content": "## ```markdown\n\n```",
+      "native_label": "paragraph_title"
+    },
+    {
+      "index": 14,
+      "label": "text",
+      "bbox_2d": [
+        170,
+        652,
+        827,
+        778
+      ],
+      "polygon": [
+        [
+          170,
+          652
+        ],
+        [
+          170,
+          778
+        ],
+        [
+          826,
+          778
+        ],
+        [
+          826,
+          652
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 15,
+      "label": "paragraph_title",
+      "bbox_2d": [
+        172,
+        793,
+        315,
+        808
+      ],
+      "polygon": [
+        [
+          172,
+          793
+        ],
+        [
+          172,
+          807
+        ],
+        [
+          315,
+          807
+        ],
+        [
+          315,
+          793
+        ]
+      ],
+      "content": "## ```markdown\n\n```",
+      "native_label": "paragraph_title"
+    },
+    {
+      "index": 16,
+      "label": "text",
+      "bbox_2d": [
+        171,
+        818,
+        827,
+        890
+      ],
+      "polygon": [
+        [
+          171,
+          818
+        ],
+        [
+          171,
+          889
+        ],
+        [
+          827,
+          889
+        ],
+        [
+          827,
+          818
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 17,
+      "label": "footnote",
+      "bbox_2d": [
+        192,
+        897,
+        455,
+        913
+      ],
+      "polygon": [
+        [
+          197,
+          897
+        ],
+        [
+          197,
+          912
+        ],
+        [
+          455,
+          912
+        ],
+        [
+          455,
+          897
+        ],
+        [
+          431,
+          897
+        ],
+        [
+          415,
+          897
+        ],
+        [
+          401,
+          897
+        ],
+        [
+          331,
+          897
+        ],
+        [
+          282,
+          897
+        ],
+        [
+          261,
+          897
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "footnote"
+    }
+  ],
+  [
+    {
+      "index": 0,
+      "label": "image",
+      "bbox_2d": [
+        177,
+        93,
+        821,
+        262
+      ],
+      "polygon": [
+        [
+          177,
+          98
+        ],
+        [
+          182,
+          261
+        ],
+        [
+          821,
+          261
+        ],
+        [
+          821,
+          93
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "image"
+    },
+    {
+      "index": 1,
+      "label": "figure_title",
+      "bbox_2d": [
+        171,
+        277,
+        824,
+        306
+      ],
+      "polygon": [
+        [
+          171,
+          282
+        ],
+        [
+          171,
+          306
+        ],
+        [
+          824,
+          306
+        ],
+        [
+          824,
+          277
+        ],
+        [
+          814,
+          277
+        ],
+        [
+          804,
+          277
+        ],
+        [
+          794,
+          277
+        ],
+        [
+          614,
+          277
+        ],
+        [
+          431,
+          277
+        ],
+        [
+          425,
+          277
+        ],
+        [
+          391,
+          277
+        ],
+        [
+          385,
+          277
+        ],
+        [
+          176,
+          277
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "figure_title"
+    },
+    {
+      "index": 2,
+      "label": "text",
+      "bbox_2d": [
+        170,
+        335,
+        825,
+        364
+      ],
+      "polygon": [
+        [
+          170,
+          335
+        ],
+        [
+          170,
+          364
+        ],
+        [
+          824,
+          364
+        ],
+        [
+          824,
+          335
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 3,
+      "label": "text",
+      "bbox_2d": [
+        171,
+        370,
+        827,
+        440
+      ],
+      "polygon": [
+        [
+          171,
+          370
+        ],
+        [
+          171,
+          439
+        ],
+        [
+          826,
+          439
+        ],
+        [
+          826,
+          370
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 4,
+      "label": "paragraph_title",
+      "bbox_2d": [
+        172,
+        459,
+        286,
+        473
+      ],
+      "polygon": [
+        [
+          172,
+          459
+        ],
+        [
+          172,
+          463
+        ],
+        [
+          172,
+          469
+        ],
+        [
+          172,
+          473
+        ],
+        [
+          285,
+          473
+        ],
+        [
+          285,
+          459
+        ]
+      ],
+      "content": "## ```markdown\n\n```",
+      "native_label": "paragraph_title"
+    },
+    {
+      "index": 5,
+      "label": "text",
+      "bbox_2d": [
+        170,
+        486,
+        827,
+        584
+      ],
+      "polygon": [
+        [
+          170,
+          486
+        ],
+        [
+          170,
+          583
+        ],
+        [
+          826,
+          583
+        ],
+        [
+          826,
+          486
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 6,
+      "label": "paragraph_title",
+      "bbox_2d": [
+        172,
+        601,
+        339,
+        615
+      ],
+      "polygon": [
+        [
+          172,
+          601
+        ],
+        [
+          172,
+          615
+        ],
+        [
+          338,
+          615
+        ],
+        [
+          338,
+          601
+        ]
+      ],
+      "content": "## ```markdown\n\n```",
+      "native_label": "paragraph_title"
+    },
+    {
+      "index": 7,
+      "label": "text",
+      "bbox_2d": [
+        170,
+        626,
+        827,
+        683
+      ],
+      "polygon": [
+        [
+          170,
+          626
+        ],
+        [
+          170,
+          683
+        ],
+        [
+          826,
+          683
+        ],
+        [
+          826,
+          626
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 8,
+      "label": "text",
+      "bbox_2d": [
+        171,
+        688,
+        827,
+        759
+      ],
+      "polygon": [
+        [
+          171,
+          688
+        ],
+        [
+          171,
+          758
+        ],
+        [
+          826,
+          758
+        ],
+        [
+          826,
+          688
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 9,
+      "label": "paragraph_title",
+      "bbox_2d": [
+        172,
+        776,
+        374,
+        790
+      ],
+      "polygon": [
+        [
+          172,
+          776
+        ],
+        [
+          172,
+          781
+        ],
+        [
+          177,
+          790
+        ],
+        [
+          374,
+          790
+        ],
+        [
+          374,
+          776
+        ]
+      ],
+      "content": "## ```markdown\n\n```",
+      "native_label": "paragraph_title"
+    },
+    {
+      "index": 10,
+      "label": "text",
+      "bbox_2d": [
+        170,
+        801,
+        827,
+        913
+      ],
+      "polygon": [
+        [
+          170,
+          801
+        ],
+        [
+          170,
+          913
+        ],
+        [
+          826,
+          913
+        ],
+        [
+          826,
+          801
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    }
+  ],
+  [
+    {
+      "index": 0,
+      "label": "text",
+      "bbox_2d": [
+        171,
+        92,
+        827,
+        163
+      ],
+      "polygon": [
+        [
+          171,
+          97
+        ],
+        [
+          171,
+          162
+        ],
+        [
+          826,
+          162
+        ],
+        [
+          826,
+          92
+        ],
+        [
+          285,
+          92
+        ],
+        [
+          176,
+          92
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 1,
+      "label": "paragraph_title",
+      "bbox_2d": [
+        172,
+        175,
+        215,
+        189
+      ],
+      "polygon": [
+        [
+          172,
+          175
+        ],
+        [
+          172,
+          189
+        ],
+        [
+          215,
+          189
+        ],
+        [
+          215,
+          175
+        ]
+      ],
+      "content": "## ```markdown\n\n```",
+      "native_label": "paragraph_title"
+    },
+    {
+      "index": 2,
+      "label": "text",
+      "bbox_2d": [
+        171,
+        200,
+        826,
+        284
+      ],
+      "polygon": [
+        [
+          171,
+          200
+        ],
+        [
+          171,
+          283
+        ],
+        [
+          825,
+          283
+        ],
+        [
+          825,
+          200
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 3,
+      "label": "text",
+      "bbox_2d": [
+        171,
+        289,
+        825,
+        317
+      ],
+      "polygon": [
+        [
+          171,
+          289
+        ],
+        [
+          176,
+          317
+        ],
+        [
+          824,
+          317
+        ],
+        [
+          824,
+          289
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 4,
+      "label": "paragraph_title",
+      "bbox_2d": [
+        172,
+        332,
+        281,
+        347
+      ],
+      "polygon": [
+        [
+          172,
+          332
+        ],
+        [
+          172,
+          346
+        ],
+        [
+          281,
+          346
+        ],
+        [
+          281,
+          332
+        ]
+      ],
+      "content": "## ```markdown\n\n```",
+      "native_label": "paragraph_title"
+    },
+    {
+      "index": 5,
+      "label": "text",
+      "bbox_2d": [
+        171,
+        359,
+        827,
+        456
+      ],
+      "polygon": [
+        [
+          171,
+          359
+        ],
+        [
+          171,
+          456
+        ],
+        [
+          827,
+          456
+        ],
+        [
+          827,
+          359
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 6,
+      "label": "paragraph_title",
+      "bbox_2d": [
+        172,
+        471,
+        302,
+        485
+      ],
+      "polygon": [
+        [
+          172,
+          471
+        ],
+        [
+          172,
+          485
+        ],
+        [
+          301,
+          485
+        ],
+        [
+          301,
+          471
+        ]
+      ],
+      "content": "## ```markdown\n\n```",
+      "native_label": "paragraph_title"
+    },
+    {
+      "index": 7,
+      "label": "text",
+      "bbox_2d": [
+        171,
+        496,
+        826,
+        609
+      ],
+      "polygon": [
+        [
+          171,
+          501
+        ],
+        [
+          171,
+          608
+        ],
+        [
+          825,
+          608
+        ],
+        [
+          825,
+          496
+        ],
+        [
+          176,
+          496
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 8,
+      "label": "text",
+      "bbox_2d": [
+        170,
+        614,
+        827,
+        670
+      ],
+      "polygon": [
+        [
+          170,
+          614
+        ],
+        [
+          170,
+          670
+        ],
+        [
+          822,
+          670
+        ],
+        [
+          827,
+          665
+        ],
+        [
+          822,
+          614
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 9,
+      "label": "paragraph_title",
+      "bbox_2d": [
+        172,
+        689,
+        315,
+        704
+      ],
+      "polygon": [
+        [
+          172,
+          689
+        ],
+        [
+          172,
+          703
+        ],
+        [
+          314,
+          703
+        ],
+        [
+          314,
+          689
+        ]
+      ],
+      "content": "## ```markdown\n\n```",
+      "native_label": "paragraph_title"
+    },
+    {
+      "index": 10,
+      "label": "text",
+      "bbox_2d": [
+        170,
+        719,
+        827,
+        830
+      ],
+      "polygon": [
+        [
+          170,
+          719
+        ],
+        [
+          170,
+          830
+        ],
+        [
+          826,
+          830
+        ],
+        [
+          826,
+          719
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 11,
+      "label": "text",
+      "bbox_2d": [
+        171,
+        836,
+        825,
+        879
+      ],
+      "polygon": [
+        [
+          171,
+          836
+        ],
+        [
+          171,
+          878
+        ],
+        [
+          825,
+          878
+        ],
+        [
+          825,
+          836
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 12,
+      "label": "text",
+      "bbox_2d": [
+        171,
+        884,
+        827,
+        913
+      ],
+      "polygon": [
+        [
+          171,
+          884
+        ],
+        [
+          171,
+          912
+        ],
+        [
+          826,
+          912
+        ],
+        [
+          826,
+          884
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    }
+  ],
+  [
+    {
+      "index": 0,
+      "label": "text",
+      "bbox_2d": [
+        171,
+        93,
+        825,
+        121
+      ],
+      "polygon": [
+        [
+          171,
+          93
+        ],
+        [
+          171,
+          120
+        ],
+        [
+          825,
+          120
+        ],
+        [
+          825,
+          93
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 1,
+      "label": "figure_title",
+      "bbox_2d": [
+        170,
+        131,
+        827,
+        188
+      ],
+      "polygon": [
+        [
+          170,
+          131
+        ],
+        [
+          175,
+          187
+        ],
+        [
+          827,
+          183
+        ],
+        [
+          827,
+          136
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "figure_title"
+    },
+    {
+      "index": 2,
+      "label": "table",
+      "bbox_2d": [
+        215,
+        197,
+        781,
+        316
+      ],
+      "polygon": [
+        [
+          215,
+          197
+        ],
+        [
+          215,
+          315
+        ],
+        [
+          625,
+          315
+        ],
+        [
+          780,
+          306
+        ],
+        [
+          780,
+          197
+        ],
+        [
+          671,
+          197
+        ],
+        [
+          665,
+          197
+        ],
+        [
+          536,
+          197
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "table"
+    },
+    {
+      "index": 3,
+      "label": "paragraph_title",
+      "bbox_2d": [
+        172,
+        330,
+        313,
+        347
+      ],
+      "polygon": [
+        [
+          172,
+          330
+        ],
+        [
+          172,
+          346
+        ],
+        [
+          312,
+          346
+        ],
+        [
+          312,
+          330
+        ]
+      ],
+      "content": "## ```markdown\n\n```",
+      "native_label": "paragraph_title"
+    },
+    {
+      "index": 4,
+      "label": "text",
+      "bbox_2d": [
+        170,
+        360,
+        827,
+        542
+      ],
+      "polygon": [
+        [
+          170,
+          360
+        ],
+        [
+          170,
+          541
+        ],
+        [
+          827,
+          541
+        ],
+        [
+          822,
+          360
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 5,
+      "label": "paragraph_title",
+      "bbox_2d": [
+        172,
+        560,
+        465,
+        575
+      ],
+      "polygon": [
+        [
+          172,
+          560
+        ],
+        [
+          172,
+          565
+        ],
+        [
+          172,
+          575
+        ],
+        [
+          465,
+          575
+        ],
+        [
+          465,
+          560
+        ]
+      ],
+      "content": "## ```markdown\n\n```",
+      "native_label": "paragraph_title"
+    },
+    {
+      "index": 6,
+      "label": "text",
+      "bbox_2d": [
+        170,
+        590,
+        826,
+        675
+      ],
+      "polygon": [
+        [
+          170,
+          590
+        ],
+        [
+          170,
+          675
+        ],
+        [
+          825,
+          675
+        ],
+        [
+          825,
+          590
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 7,
+      "label": "text",
+      "bbox_2d": [
+        171,
+        680,
+        827,
+        750
+      ],
+      "polygon": [
+        [
+          171,
+          680
+        ],
+        [
+          171,
+          750
+        ],
+        [
+          826,
+          750
+        ],
+        [
+          826,
+          680
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 8,
+      "label": "paragraph_title",
+      "bbox_2d": [
+        174,
+        769,
+        270,
+        784
+      ],
+      "polygon": [
+        [
+          174,
+          769
+        ],
+        [
+          174,
+          783
+        ],
+        [
+          269,
+          783
+        ],
+        [
+          269,
+          769
+        ]
+      ],
+      "content": "## ```markdown\n\n```",
+      "native_label": "paragraph_title"
+    },
+    {
+      "index": 9,
+      "label": "reference",
+      "bbox_2d": [
+        182,
+        793,
+        826,
+        911
+      ],
+      "polygon": [
+        [
+          182,
+          793
+        ],
+        [
+          182,
+          911
+        ],
+        [
+          825,
+          911
+        ],
+        [
+          825,
+          793
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "reference"
+    }
+  ],
+  [
+    {
+      "index": 0,
+      "label": "reference",
+      "bbox_2d": [
+        173,
+        90,
+        827,
+        815
+      ],
+      "polygon": [
+        [
+          188,
+          100
+        ],
+        [
+          173,
+          814
+        ],
+        [
+          826,
+          814
+        ],
+        [
+          826,
+          90
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "reference"
+    }
+  ],
+  [
+    {
+      "index": 0,
+      "label": "doc_title",
+      "bbox_2d": [
+        171,
+        121,
+        759,
+        136
+      ],
+      "polygon": [
+        [
+          171,
+          121
+        ],
+        [
+          171,
+          135
+        ],
+        [
+          758,
+          135
+        ],
+        [
+          758,
+          121
+        ]
+      ],
+      "content": "# ```markdown\n\n```",
+      "native_label": "doc_title"
+    },
+    {
+      "index": 1,
+      "label": "image",
+      "bbox_2d": [
+        178,
+        153,
+        864,
+        450
+      ],
+      "polygon": [
+        [
+          178,
+          153
+        ],
+        [
+          178,
+          450
+        ],
+        [
+          863,
+          450
+        ],
+        [
+          858,
+          153
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "image"
+    },
+    {
+      "index": 2,
+      "label": "figure_title",
+      "bbox_2d": [
+        170,
+        467,
+        828,
+        525
+      ],
+      "polygon": [
+        [
+          170,
+          467
+        ],
+        [
+          170,
+          524
+        ],
+        [
+          822,
+          524
+        ],
+        [
+          827,
+          519
+        ],
+        [
+          827,
+          467
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "figure_title"
+    }
+  ],
+  [
+    {
+      "index": 0,
+      "label": "text",
+      "bbox_2d": [
+        198,
+        302,
+        371,
+        357
+      ],
+      "polygon": [
+        [
+          198,
+          302
+        ],
+        [
+          198,
+          357
+        ],
+        [
+          371,
+          357
+        ],
+        [
+          371,
+          302
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 1,
+      "label": "table",
+      "bbox_2d": [
+        205,
+        361,
+        364,
+        447
+      ],
+      "polygon": [
+        [
+          205,
+          361
+        ],
+        [
+          205,
+          446
+        ],
+        [
+          364,
+          446
+        ],
+        [
+          364,
+          361
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "table"
+    },
+    {
+      "index": 2,
+      "label": "chart",
+      "bbox_2d": [
+        387,
+        305,
+        550,
+        398
+      ],
+      "polygon": [
+        [
+          387,
+          305
+        ],
+        [
+          387,
+          397
+        ],
+        [
+          550,
+          397
+        ],
+        [
+          550,
+          305
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "chart"
+    },
+    {
+      "index": 3,
+      "label": "text",
+      "bbox_2d": [
+        197,
+        455,
+        371,
+        570
+      ],
+      "polygon": [
+        [
+          197,
+          455
+        ],
+        [
+          197,
+          570
+        ],
+        [
+          371,
+          570
+        ],
+        [
+          371,
+          455
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 4,
+      "label": "paragraph_title",
+      "bbox_2d": [
+        198,
+        572,
+        268,
+        580
+      ],
+      "polygon": [
+        [
+          198,
+          572
+        ],
+        [
+          198,
+          580
+        ],
+        [
+          268,
+          580
+        ],
+        [
+          268,
+          572
+        ]
+      ],
+      "content": "## ```markdown\n\n```",
+      "native_label": "paragraph_title"
+    },
+    {
+      "index": 5,
+      "label": "figure_title",
+      "bbox_2d": [
+        381,
+        405,
+        555,
+        443
+      ],
+      "polygon": [
+        [
+          381,
+          405
+        ],
+        [
+          381,
+          443
+        ],
+        [
+          554,
+          443
+        ],
+        [
+          554,
+          405
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "figure_title"
+    },
+    {
+      "index": 6,
+      "label": "paragraph_title",
+      "bbox_2d": [
+        382,
+        524,
+        492,
+        531
+      ],
+      "polygon": [
+        [
+          387,
+          524
+        ],
+        [
+          387,
+          531
+        ],
+        [
+          491,
+          531
+        ],
+        [
+          491,
+          524
+        ]
+      ],
+      "content": "## ```markdown\n\n```",
+      "native_label": "paragraph_title"
+    },
+    {
+      "index": 7,
+      "label": "text",
+      "bbox_2d": [
+        381,
+        532,
+        555,
+        640
+      ],
+      "polygon": [
+        [
+          381,
+          537
+        ],
+        [
+          381,
+          640
+        ],
+        [
+          554,
+          640
+        ],
+        [
+          554,
+          532
+        ],
+        [
+          391,
+          532
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "text"
+    },
+    {
+      "index": 8,
+      "label": "vision_footnote",
+      "bbox_2d": [
+        596,
+        287,
+        861,
+        310
+      ],
+      "polygon": [
+        [
+          596,
+          287
+        ],
+        [
+          596,
+          310
+        ],
+        [
+          861,
+          310
+        ],
+        [
+          861,
+          287
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "vision_footnote"
+    },
+    {
+      "index": 9,
+      "label": "image",
+      "bbox_2d": [
+        587,
+        307,
+        867,
+        645
+      ],
+      "polygon": [
+        [
+          592,
+          307
+        ],
+        [
+          587,
+          644
+        ],
+        [
+          866,
+          644
+        ],
+        [
+          866,
+          307
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "image"
+    },
+    {
+      "index": 10,
+      "label": "figure_title",
+      "bbox_2d": [
+        170,
+        661,
+        828,
+        717
+      ],
+      "polygon": [
+        [
+          170,
+          661
+        ],
+        [
+          170,
+          716
+        ],
+        [
+          827,
+          716
+        ],
+        [
+          822,
+          661
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "figure_title"
+    }
+  ],
+  [
+    {
+      "index": 0,
+      "label": "table",
+      "bbox_2d": [
+        181,
+        294,
+        527,
+        395
+      ],
+      "polygon": [
+        [
+          181,
+          294
+        ],
+        [
+          181,
+          309
+        ],
+        [
+          181,
+          380
+        ],
+        [
+          181,
+          394
+        ],
+        [
+          527,
+          394
+        ],
+        [
+          527,
+          294
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "table"
+    },
+    {
+      "index": 1,
+      "label": "algorithm",
+      "bbox_2d": [
+        184,
+        408,
+        538,
+        607
+      ],
+      "polygon": [
+        [
+          184,
+          408
+        ],
+        [
+          190,
+          606
+        ],
+        [
+          537,
+          606
+        ],
+        [
+          532,
+          408
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "algorithm"
+    },
+    {
+      "index": 2,
+      "label": "table",
+      "bbox_2d": [
+        544,
+        290,
+        889,
+        477
+      ],
+      "polygon": [
+        [
+          544,
+          290
+        ],
+        [
+          544,
+          476
+        ],
+        [
+          888,
+          476
+        ],
+        [
+          884,
+          290
+        ],
+        [
+          574,
+          290
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "table"
+    },
+    {
+      "index": 3,
+      "label": "figure_title",
+      "bbox_2d": [
+        170,
+        646,
+        827,
+        731
+      ],
+      "polygon": [
+        [
+          170,
+          651
+        ],
+        [
+          170,
+          730
+        ],
+        [
+          827,
+          730
+        ],
+        [
+          822,
+          646
+        ],
+        [
+          175,
+          646
+        ]
+      ],
+      "content": "```markdown\n\n```",
+      "native_label": "figure_title"
+    }
+  ]
+]

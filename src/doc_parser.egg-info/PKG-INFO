@@ -1,0 +1,42 @@
+Metadata-Version: 2.4
+Name: doc-parser
+Version: 0.1.0
+Requires-Python: <3.13,>=3.12
+Requires-Dist: glmocr>=0.1.0
+Requires-Dist: pymupdf>=1.27.2
+Requires-Dist: Pillow>=12.1.1
+Requires-Dist: pyyaml>=6.0
+Requires-Dist: pydantic>=2.12.0
+Requires-Dist: pydantic-settings>=2.8.0
+Requires-Dist: python-dotenv>=1.0.0
+Requires-Dist: rich>=14.0.0
+Requires-Dist: tqdm>=4.67.0
+Requires-Dist: streamlit>=1.40.0
+Requires-Dist: openai>=2.24.0
+Requires-Dist: qdrant-client>=1.17.0
+Requires-Dist: tiktoken>=0.9.0
+Requires-Dist: httpx>=0.28.0
+Requires-Dist: fastapi>=0.120.0
+Requires-Dist: uvicorn[standard]>=0.34.0
+Requires-Dist: loguru>=0.7.0
+Requires-Dist: python-multipart>=0.0.20
+Provides-Extra: dev
+Requires-Dist: pytest>=8.4.0; extra == "dev"
+Requires-Dist: pytest-asyncio>=0.25.0; extra == "dev"
+Requires-Dist: ruff>=0.11.0; extra == "dev"
+Requires-Dist: mypy>=1.15.0; extra == "dev"
+Provides-Extra: bge
+Requires-Dist: FlagEmbedding>=1.3.0; extra == "bge"
+Provides-Extra: qwen
+Requires-Dist: transformers>=4.51.0; extra == "qwen"
+Requires-Dist: torch>=2.7.0; extra == "qwen"
+Provides-Extra: gemini
+Requires-Dist: google-genai>=1.0.0; extra == "gemini"
+Provides-Extra: layout
+Requires-Dist: glmocr[layout]; extra == "layout"
+Requires-Dist: torch>=2.10; extra == "layout"
+Requires-Dist: torchvision>=0.25; extra == "layout"
+Requires-Dist: transformers>=5.3; extra == "layout"
+Requires-Dist: sentencepiece>=0.2; extra == "layout"
+Requires-Dist: accelerate>=1.13; extra == "layout"
+Requires-Dist: opencv-python>=4.10.0; extra == "layout"
