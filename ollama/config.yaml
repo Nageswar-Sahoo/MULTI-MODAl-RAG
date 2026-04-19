@@ -5,9 +5,9 @@ pipeline:
   ocr_api:
     api_host: localhost
     api_port: 11434
-    api_path: /v1/chat/completions   # Ollama's native endpoint (NOT the OpenAI-compat one)
+    api_path: /api/generate   # Ollama's native endpoint (NOT the OpenAI-compat one)
     model: glm-ocr:latest     # Must match what you pulled
-    api_mode: openai  # Essential — prevents 502 errors
+    api_mode: ollama_generate  # Essential — prevents 502 errors
 
   enable_layout: true         # PP-DocLayout-V3 layout detection
                               # Requires: uv pip install "glmocr[layout]"
@@ -55,7 +55,7 @@ pipeline:
         - number
 
   result_formatter:
-    output_format: markdown       # json + markdown
+    output_format: both       # json + markdown
 
   page_loader:
     max_tokens: 8192
